@@ -11,3 +11,4 @@
 ### Otra Información
 - Este es mi primer contacto con github
 - Estoy estudiando la Tecnicatura en Programación, este es mi 2do año en la UNAHUR.
+- Tengo un perro llamado Pulga.
